@@ -1,6 +1,8 @@
-"""
-"""
+# -*- coding: utf-8 -*-
 
+"""
+This module contains the primary objects that power Mention.
+"""
 
 import json
 import requests
