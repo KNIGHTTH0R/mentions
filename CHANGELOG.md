@@ -1,6 +1,6 @@
 # HEAD
 
-## v0.1.2 - 03/14/2015
+## v0.1.3 - 03/14/2015
 
 - Changed name to mentions
 
