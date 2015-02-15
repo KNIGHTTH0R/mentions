@@ -1,4 +1,4 @@
-# Mention
+# Mentions
 
 Get share counts from a given URL easily.
 
