@@ -1,0 +1,10 @@
+total count: 12798
+like count: 3126
+comment count: 1725
+share count: 7947
+tweets: 176684
+1+: 6.1M
+linkedin: 2806
+pinterest: 35
+stumbleupon: 30926
+reddit: {"error": 429}
