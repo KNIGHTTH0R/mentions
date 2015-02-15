@@ -7,5 +7,5 @@ setup(name='mention',
       author='Juan Olvera',
       author_email='thinkxl@gmail.com',
       license='MIT',
-      packages=['requests', 'beautifulsoup4'],
+      packages=['mention'],
       zip_safe=False)
