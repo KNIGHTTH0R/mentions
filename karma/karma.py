@@ -69,8 +69,9 @@ def pinterest_shares(url):
     try:
         pinterest_url = 'http://api.pinterest.com/v1/urls/count.json?url=' \
                         + url
-        response = requests.get(pinterest_url).text.replace('receiveCount(', '')\
-                .replace(')', '')
+        response = requests.get(pinterest_url).text\
+                   .replace('receiveCount(', '')\
+                   .replace(')', '')
         json_data = json.loads(response)
         return json_data['count']
     except: 
