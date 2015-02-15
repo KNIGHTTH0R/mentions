@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='mention',
-      version='0.1.0',
+      version='0.1.1',
       description='Get share counts from a given URL easily.',
       url='https://github.com/thinkxl/mention',
       author='Juan Olvera',
