@@ -17,7 +17,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Got it ready to pypi
 
-## [0.1.0] - Feb 1st, 2015
+## 0.1.0 - Feb 1st, 2015
 - Initial release
 
 [unreleased]: https://github.com/thinkxl/mentions/compare/v0.1.3...HEAD
